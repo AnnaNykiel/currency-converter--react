@@ -7,10 +7,11 @@ export const Form = ({ calculateResult, result }) => {
   const [currency, setCurrency] = useState(currencies[0].short);
   const [amount, setAmount] = useState("");
 
-  const OnSubmit = (event) => {
+  const onSubmit = (event) => {
     event.preventDefault();
     calculateResult(currency, amount);
   };
+  
 
   return (
     <form className="form" onSubmit={onSubmit}>
