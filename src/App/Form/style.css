@@ -1,0 +1,39 @@
+.form__labelText {
+    padding: 10px;
+    font-size: 15px;
+}
+
+.form__button {
+    background-color: rgba(223, 125, 89, 0.492);
+    color: rgb(26, 8, 43);
+    border-radius: 20px;
+    padding: 10px;
+    font-size: 15px;
+}
+
+.form__fieldset {
+    border-color: rgb(139, 83, 11);
+    max-width: 400px;
+    background-color: rgba(187, 94, 37, 0.19);
+    align-items: center;
+}
+
+.form {
+    max-width: 400px;
+    margin: auto;
+}
+
+.form__header {
+    font-size: 20px;
+    text-shadow: 5px 5px 5px chocolate;
+}
+
+
+.form__field {
+    font-size: 25px;
+}
+
+.form__info {
+    font-size:20px;
+    color:red;
+}

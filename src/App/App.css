@@ -1,0 +1,8 @@
+.app {
+  flex-basis: 700px;
+  padding:20px;
+  margin: 20px;
+  font-size: 20px;
+  text-shadow: 5px 5px 5px chocolate;
+ background-color: rgba(237, 138, 17, 0.258);
+}
