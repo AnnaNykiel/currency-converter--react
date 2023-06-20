@@ -1,8 +1,8 @@
-﻿# To-do List
+﻿# Currency-coverter React
 ![background](https://github.com/AnnaNykiel/currency-converter--react/blob/main/src/currencyScreenshot.jpg)
 
  ## Demo 
- 
+ https://annanykiel.github.io/currency-converter--react/
  
  ### Description
 Welcome to my simple currency-converter-react webside.
