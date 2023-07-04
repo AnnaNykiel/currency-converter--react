@@ -4,7 +4,7 @@
 }
 
 .form__button {
-    background-color: rgba(224, 215, 212, 0.91);
+    background-color: rgba(173, 168, 186, 0.359);
     color: rgb(26, 8, 43);
     border-radius: 20px;
     padding: 10px;
@@ -25,7 +25,7 @@
 
 .form__header {
     font-size: 20px;
-    text-shadow: 5px 5px 5px rgb(222, 215, 210);
+    text-shadow: 5px 5px 5px rgb(3, 4, 24);
 }
 
 
