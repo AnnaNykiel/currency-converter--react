@@ -1,3 +1,26 @@
+
+html {
+  box-sizing: border-box;
+}
+
+*,
+::after,
+::before {
+  box-sizing: inherit;
+}
+
+#root{
+  font-family: 'Lato', sans-serif;
+  min-height: 100vh;
+  background-image: url("money.jpg");
+  background-position: center;
+  background-size: cover;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+
 .app {
   flex-basis: 700px;
   padding:20px;
