@@ -15,7 +15,7 @@ const [result, setResult] = useState();
       currency,
   });
 
-export const Form = ({ calculateResult, result }) => {
+ const Form = ({ calculateResult, result }) => {
   const [currency, setCurrency] = useState(currencies[0].short);
   const [amount, setAmount] = useState("");
 
